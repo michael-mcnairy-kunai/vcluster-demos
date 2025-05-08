@@ -7,7 +7,8 @@
     "kubectl@1.32.2",
     "ngrok@3.19.1",
     "gh@2.69.0",
-    "kubectx@0.9.5"
+    "kubectx@0.9.5",
+    "kubecolor@0.5.0"
   ],
   "env": {
     "KUBECONFIG": "/Users/michael/.kube/config"
